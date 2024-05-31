@@ -1,5 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGH-No33MXtgQ/profile-displaybackgroundimage-shrink_350_1400/0/1716818039828?e=1722470400&v=beta&t=gNcAoDdGFxNMPsfPWVtaLXRQKY_tKamOruFyO8g3g0Q)]
 <h1 align="center">Hi 👋, I'm RAMANA J S</h1>
+<a href= "https://github.com/code50/118647092"> 
+Visual Studio Code for CS50 from Harvard University </a>
 <h3 align="center">A passionate web developer and AI && ML from India</h3>
 <img align="right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
